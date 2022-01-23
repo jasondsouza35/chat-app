@@ -1,4 +1,4 @@
-# Chat A
+# Chat App
 
 Chat App I made with HTML, CSS, JavaScript, React and some libraries/APIs. Try it out yourself!
 <br>
